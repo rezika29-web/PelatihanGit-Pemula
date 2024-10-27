@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rezika29-web/PelatihanGit-Pemula.git",
   "author": "Rezika97 <septiandrirezika97@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
